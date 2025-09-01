@@ -1,7 +1,8 @@
 ---
 title: "Website"
 author: "Larry Nguyen"
-output: postcards:solana
+date: "`r Sys.Date()`"
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
