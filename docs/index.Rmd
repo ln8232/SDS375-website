@@ -1,14 +1,19 @@
 ---
-title: "Website"
-author: "Larry Nguyen"
-date: "`r Sys.Date()`"
-output: html_document
+title: "Larry Nguyen"
+image: "dispersion.gif"
+links:
+  - label: GitHub
+    url: "https://github.com/ln8232"
+output:
+  postcards::trestles
 ---
+ 
+## About Me
+I am a senior studying a dual degree in statistics and electrical engineering at the University of Texas at Austin. I enjoy exploring the intersections of data science and software design, with a particular interest in the implementation of data pipelines. Though a niche subject, I am also passionate about the study of optics, both in the classical and modern sense. In fact, the GIF for this website is based upon the optical phenomenon of dispersion where white light is separated into a spectrum.
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
-## Text
+## Unordered List
+- One: text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text
+- Two: text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text
 
-text text text
+Last built on `r Sys.time()`
