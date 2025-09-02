@@ -12,8 +12,17 @@ output:
 I am a senior studying a dual degree in statistics and electrical engineering at the University of Texas at Austin. I enjoy exploring the intersections of data science and software design, with a particular interest in the implementation of data pipelines. Though a niche subject, I am also passionate about the study of optics, both in the classical and modern sense. In fact, the GIF for this website is based upon the optical phenomenon of dispersion where white light is separated into a spectrum.
 
 
-## Unordered List
-- One: text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text
-- Two: text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text
+## Favorite Courses
+These are five of my favorite courses taken at UT Austin in no particular order
+
+- SDS 431 | Probability and Statistical Inference
+
+- SDS 336 | Practical Machine Learning
+
+- C S 313E | Elements of Software Design
+
+- C S 327E | Elements of Databases
+
+- ECE 319K | Introduction to Embedded Systems 
 
 Last built on `r Sys.time()`
