@@ -9,11 +9,11 @@ output:
 ---
  
 ## About Me
-I am a senior studying a dual degree in statistics and electrical engineering at the University of Texas at Austin. I enjoy exploring the intersections of data science and software design, with a particular interest in the implementation of data pipelines. Though a niche subject, I am also passionate about the study of optics, both in the classical and modern sense. In fact, the graphics for this website is based upon the optical phenomenon of dispersion where white light is separated into a spectrum.
+I am a senior pursuing a dual degree in statistics and electrical engineering at the University of Texas at Austin. I enjoy exploring the intersection of data science and software design, with a particular focus on building and implementing data pipelines. Though a niche subject, I am also passionate about optics, both classical and modern. In fact, the graphics for this website is based upon the optical phenomenon of dispersion where white light is separated into a spectrum.
 
 
 ## Favorite Courses
-These are five of my favorite courses taken at UT Austin in no particular order
+These are five of my favorite courses taken at UT Austin in no particular order.
 
 - SDS 431 | Probability and Statistical Inference
 
