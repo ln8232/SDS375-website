@@ -11,18 +11,17 @@ output:
 ## About Me
 I am a senior pursuing a dual degree in statistics and electrical engineering at the University of Texas at Austin. I enjoy exploring the intersection of data science and software design, with a particular focus on building and implementing data pipelines. Though a niche subject, I am also passionate about optics, both classical and modern. In fact, the graphics for this website is based upon the optical phenomenon of dispersion where white light is separated into a spectrum.
 
-
 ## Favorite Courses
 These are five of my favorite courses taken at UT Austin in no particular order.
 
 - SDS 431 | Probability and Statistical Inference
 
-- SDS 336 | Practical Machine Learning
-
 - C S 313E | Elements of Software Design
 
 - C S 327E | Elements of Databases
 
-- ECE 319K | Introduction to Embedded Systems 
+- PHY 303E | Electromagnetic, Quantum, and Semiconductor Physics
+
+- ECE 319K | Introduction to Embedded Systems
 
 Last built on `r Sys.time()`
